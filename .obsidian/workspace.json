@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9d3e1ab7d6e0cc44",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37c09ea2bd7ce2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2003289a9fccef22",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31c363305b70439e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94efdec6f5605ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425f2a3e3595f915",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40f7f79d9d0e1914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "353c96e58c83322b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "34ac88b0fc6e63a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a60c6480c6a8ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b73207a68aa65b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab0592f682cef49b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f8fcac3038a79ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6675f416a59a7b60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "2003289a9fccef22",
+  "lastOpenFiles": [
+    "Industries/Nucléaire.md",
+    "Sources/Pasted image 20240120123328.png",
+    "Économie.md",
+    "Sources/IMG_20231226_075541624~2.jpg",
+    "Sources/IMG_20231222_082517907~2.jpg",
+    "Sources/IMG_20231222_081946278~2.jpg",
+    "Blockchain/Les rollups.md",
+    "Sources/IMG_20231221_081902600~2.jpg",
+    "Sources",
+    "Sources/image001.png",
+    "Sources/image001.gif",
+    "Sources/image002.png",
+    "Sources/IMG_20231221_081424685~2.jpg",
+    "Sources/IMG_20231221_081424685~2 1.jpg",
+    "Finance/Finance d'entreprise.md",
+    "Finance.md",
+    "Finance/Finance de marche.md",
+    "Blockchain/Dig.md",
+    "Finance/Formation PGC.md",
+    "Finance",
+    "Blockchain/Blockchain.md",
+    "Blockchain/Formation Blockchain.md",
+    "Blockchain",
+    "Entreprises/Vanguard.md",
+    "Lecture/Géopolitique du blé.md",
+    "Lecture/Lecture.md",
+    "Lecture/Talk Like Ted.md",
+    "Industries/Finance.md",
+    "Humains/Politique/Mike Tyson.md",
+    "Untitled.canvas",
+    "Humains/Politique/Politique.md",
+    "Industries/Food.md",
+    "Industries/Siderurgie.md",
+    "Industries/Gaz.md",
+    "Industries/Automobile.md",
+    "Vanguard.md",
+    "Entreprises/Blackrock.md",
+    "Entreprises/Gazprom.md",
+    "Pays/Russie.md",
+    "Humains/Politique",
+    "Humains",
+    "Industries/Food/Untitled",
+    "Industries/Food",
+    "Lecture",
+    "Industries/Petrole",
+    "Industries"
+  ]
+}
